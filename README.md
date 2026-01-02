@@ -25,9 +25,6 @@ The pipeline facilitates faster interpretation of UL 1974 test data and supports
 
 ## Project Structure
 
-## Project Structure
-
-```text
 ev-battery-test-data-processing/
 ├─ _codes/
 │  ├─ build_dataTest.m      % Main script (run this)
