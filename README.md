@@ -88,11 +88,10 @@ ev-battery-test-data-processing/
 
 **Battery #5 — P1 and P2 appended**
 
-Current vs. Time  
-![Current vs Time](./_figures/battery05_current_vs_time.png)
+Current and Voltage vs. Time  
+![Current vs Time](Set1_Batt05_IV)
 
-Voltage vs. Time  
-![Voltage vs Time](./_figures/battery05_voltage_vs_time.png)
+
 
 *Dashed vertical line indicates transition between P1 and P2 test segments.*
 
