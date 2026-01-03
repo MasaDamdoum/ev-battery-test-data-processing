@@ -104,10 +104,11 @@ Current and Voltage vs. Time
 - The code is structured for future expansion (e.g., resistance estimation, SOC-based analysis)
 
 ## Author
-
-Masa Damdoum
-Bachelor of Applied Science – Electrical Engineering (Co-op)
+Masa Damdoum  
+Electrical Engineering (Co-op)  
 University of Windsor
+
+---
 
 ## Disclaimer
 
